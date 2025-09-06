@@ -5,3 +5,5 @@
 
 ## primeiro exercicio engsoft
 - caio adidiconou abuble.txt
+
+#### Juan criou o arquivo juan.txt
