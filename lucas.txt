@@ -1,0 +1,12 @@
+> Meu nome é Lucas, tenho 24 anos;
+
+> Tenho 3 gatos:
+    - Galileu;
+    - Donatello;
+    - Dandara;
+
+> Meu filme favorito é Mulholland Drive;
+
+> Tenho 2 tatuagens;
+
+> Vai Corinthians;
